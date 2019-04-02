@@ -1,0 +1,11 @@
+﻿        ''读入最近打开的文件
+        'Dim fs As New FileStream("e:\listbox.txt", FileMode.OpenOrCreate)
+        'Dim sr As New StreamReader(fs)
+        'Dim str1 As String
+        'str1 = sr.ReadLine
+        'While str1 <> Nothing
+        '    '   ListBox1.Items.Add(str1)
+        '    str1 = sr.ReadLine
+        'End While
+        'sr.Close()
+        'fs.Close()

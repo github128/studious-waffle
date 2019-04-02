@@ -1,0 +1,139 @@
+C:\Users\Administrator\Desktop\VB录音2\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe.config
+C:\Users\Administrator\Desktop\VB录音2\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe
+C:\Users\Administrator\Desktop\VB录音2\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.pdb
+C:\Users\Administrator\Desktop\VB录音2\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.xml
+C:\Users\Administrator\Desktop\VB录音2\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\Administrator\Desktop\VB录音2\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\Administrator\Desktop\VB录音2\VB语音识别按键式\obj\x64\Debug\VB录音.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.Form1.resources
+C:\Users\Administrator\Desktop\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.Resources.resources
+C:\Users\Administrator\Desktop\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.波形绘图窗口.resources
+C:\Users\Administrator\Desktop\VB录音2\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\VB录音2\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VB录音2\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.exe
+C:\Users\Administrator\Desktop\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.xml
+C:\Users\Administrator\Desktop\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.pdb
+C:\Users\Administrator\Desktop\VB项目\VB录音2\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe.config
+C:\Users\Administrator\Desktop\VB项目\VB录音2\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe
+C:\Users\Administrator\Desktop\VB项目\VB录音2\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.pdb
+C:\Users\Administrator\Desktop\VB项目\VB录音2\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.xml
+C:\Users\Administrator\Desktop\VB项目\VB录音2\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\Administrator\Desktop\VB项目\VB录音2\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\Administrator\Desktop\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB录音.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.Form1.resources
+C:\Users\Administrator\Desktop\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.Resources.resources
+C:\Users\Administrator\Desktop\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.波形绘图窗口.resources
+C:\Users\Administrator\Desktop\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.exe
+C:\Users\Administrator\Desktop\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.xml
+C:\Users\Administrator\Desktop\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.pdb
+E:\VB项目\VB录音2\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe.config
+E:\VB项目\VB录音2\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe
+E:\VB项目\VB录音2\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.pdb
+E:\VB项目\VB录音2\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.xml
+E:\VB项目\VB录音2\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.dll
+E:\VB项目\VB录音2\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.xml
+E:\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB录音.vbprojAssemblyReference.cache
+E:\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.Form1.resources
+E:\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.Resources.resources
+E:\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.波形绘图窗口.resources
+E:\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.GenerateResource.cache
+E:\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.CoreCompileInputs.cache
+E:\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.CopyComplete
+E:\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.exe
+E:\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.xml
+E:\VB项目\VB录音2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.pdb
+C:\Users\Administrator\Desktop\VB录音3\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe.config
+C:\Users\Administrator\Desktop\VB录音3\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe
+C:\Users\Administrator\Desktop\VB录音3\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.pdb
+C:\Users\Administrator\Desktop\VB录音3\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.xml
+C:\Users\Administrator\Desktop\VB录音3\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\Administrator\Desktop\VB录音3\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\Administrator\Desktop\VB录音3\VB语音识别按键式\obj\x64\Debug\VB录音.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\VB录音3\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.Form1.resources
+C:\Users\Administrator\Desktop\VB录音3\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.Resources.resources
+C:\Users\Administrator\Desktop\VB录音3\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.波形绘图窗口.resources
+C:\Users\Administrator\Desktop\VB录音3\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\VB录音3\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VB录音3\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\VB录音3\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.exe
+C:\Users\Administrator\Desktop\VB录音3\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.xml
+C:\Users\Administrator\Desktop\VB录音3\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.pdb
+C:\Users\Administrator\Desktop\VB录音4\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe.config
+C:\Users\Administrator\Desktop\VB录音4\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe
+C:\Users\Administrator\Desktop\VB录音4\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.pdb
+C:\Users\Administrator\Desktop\VB录音4\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.xml
+C:\Users\Administrator\Desktop\VB录音4\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\Administrator\Desktop\VB录音4\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\Administrator\Desktop\VB录音4\VB语音识别按键式\obj\x64\Debug\VB录音.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\VB录音4\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.Form1.resources
+C:\Users\Administrator\Desktop\VB录音4\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.Resources.resources
+C:\Users\Administrator\Desktop\VB录音4\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.波形绘图窗口.resources
+C:\Users\Administrator\Desktop\VB录音4\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\VB录音4\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VB录音4\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\VB录音4\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.exe
+C:\Users\Administrator\Desktop\VB录音4\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.xml
+C:\Users\Administrator\Desktop\VB录音4\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.pdb
+C:\Users\Administrator\Desktop\VB录音5录音编辑保存\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe.config
+C:\Users\Administrator\Desktop\VB录音5录音编辑保存\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe
+C:\Users\Administrator\Desktop\VB录音5录音编辑保存\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.pdb
+C:\Users\Administrator\Desktop\VB录音5录音编辑保存\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.xml
+C:\Users\Administrator\Desktop\VB录音5录音编辑保存\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\Administrator\Desktop\VB录音5录音编辑保存\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\Administrator\Desktop\VB录音5录音编辑保存\VB语音识别按键式\obj\x64\Debug\VB录音.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\VB录音5录音编辑保存\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.Form1.resources
+C:\Users\Administrator\Desktop\VB录音5录音编辑保存\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.Resources.resources
+C:\Users\Administrator\Desktop\VB录音5录音编辑保存\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.波形绘图窗口.resources
+C:\Users\Administrator\Desktop\VB录音5录音编辑保存\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\VB录音5录音编辑保存\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VB录音5录音编辑保存\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\VB录音5录音编辑保存\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.exe
+C:\Users\Administrator\Desktop\VB录音5录音编辑保存\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.xml
+C:\Users\Administrator\Desktop\VB录音5录音编辑保存\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.pdb
+C:\Users\Administrator\Desktop\VB录音6录音编辑保存FFT\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe.config
+C:\Users\Administrator\Desktop\VB录音6录音编辑保存FFT\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe
+C:\Users\Administrator\Desktop\VB录音6录音编辑保存FFT\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.pdb
+C:\Users\Administrator\Desktop\VB录音6录音编辑保存FFT\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.xml
+C:\Users\Administrator\Desktop\VB录音6录音编辑保存FFT\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\Administrator\Desktop\VB录音6录音编辑保存FFT\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\Administrator\Desktop\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB录音.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.Form1.resources
+C:\Users\Administrator\Desktop\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.Resources.resources
+C:\Users\Administrator\Desktop\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.波形绘图窗口.resources
+C:\Users\Administrator\Desktop\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.exe
+C:\Users\Administrator\Desktop\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.xml
+C:\Users\Administrator\Desktop\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.pdb
+E:\2019-3-3\新建文件夹 (10)\VB录音6录音编辑保存FFT\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe.config
+E:\2019-3-3\新建文件夹 (10)\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.exe
+E:\2019-3-3\新建文件夹 (10)\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.xml
+E:\2019-3-3\新建文件夹 (10)\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.pdb
+E:\2019-3-3\新建文件夹 (10)\VB录音6录音编辑保存FFT\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe
+E:\2019-3-3\新建文件夹 (10)\VB录音6录音编辑保存FFT\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.pdb
+E:\2019-3-3\新建文件夹 (10)\VB录音6录音编辑保存FFT\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.xml
+E:\2019-3-3\新建文件夹 (10)\VB录音6录音编辑保存FFT\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.dll
+E:\2019-3-3\新建文件夹 (10)\VB录音6录音编辑保存FFT\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.xml
+E:\2019-3-3\新建文件夹 (10)\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB录音.vbprojResolveAssemblyReference.cache
+E:\2019-3-3\新建文件夹 (10)\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.Form1.resources
+E:\2019-3-3\新建文件夹 (10)\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.Resources.resources
+E:\2019-3-3\新建文件夹 (10)\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.波形绘图窗口.resources
+E:\2019-3-3\新建文件夹 (10)\VB录音6录音编辑保存FFT\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\音频编辑2\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe.config
+C:\Users\Administrator\Desktop\音频编辑2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.exe
+C:\Users\Administrator\Desktop\音频编辑2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.xml
+C:\Users\Administrator\Desktop\音频编辑2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.pdb
+C:\Users\Administrator\Desktop\音频编辑2\VB语音识别按键式\obj\x64\Debug\VB录音.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\音频编辑2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.Resources.resources
+C:\Users\Administrator\Desktop\音频编辑2\VB语音识别按键式\obj\x64\Debug\VB语音识别按键式.波形绘图窗口.resources
+C:\Users\Administrator\Desktop\音频编辑2\VB语音识别按键式\obj\x64\Debug\VB录音.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\音频编辑2\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.exe
+C:\Users\Administrator\Desktop\音频编辑2\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.pdb
+C:\Users\Administrator\Desktop\音频编辑2\VB语音识别按键式\bin\x64\Debug\VB语音识别按键式.xml
+C:\Users\Administrator\Desktop\音频编辑2\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\Administrator\Desktop\音频编辑2\VB语音识别按键式\bin\x64\Debug\MathNet.Numerics.xml
